@@ -36,3 +36,22 @@ Lists
 - - list.pop()
 - - list.extend()
 - Finding items in list (in keyword)
+
+Loops
+- for loop (for each item in a list: ...)
+- enumerate()
+- zip()
+- range()
+- while loop (ask each time: is this still true?)
+
+Strings to Lists and Vice-Versa
+- str.join() (create a string from a list)
+- str.split() (create a list from a string)
+
+File handling
+- with open(filename) as textfile: ...
+- file.read()
+- Reading text files 
+- Reading CSV files
+- File handling flags (r, w, b, +)
+- Writing to files
