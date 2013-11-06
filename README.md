@@ -55,3 +55,37 @@ File handling
 - Reading CSV files
 - File handling flags (r, w, b, +)
 - Writing to files
+
+Functions
+- def keyword
+- arguments
+- default arguments
+- *args
+- **kwargs
+- return keyword
+- sequence unpacking (return and receive multiple values)
+- namespaces
+
+Dictionaries
+
+
+Standard Library
+- import keyword
+- from ... import ... as ... structure
+- time
+- random
+- math
+- re (regular expressions)
+- os
+- sys
+
+External Libraries (Not necessarily in order; keep these in mind)
+- Installing external libraries with easy_install
+- Using easy_install to install pip (an easier / better way to install external libraries)
+- requests (web crawling made easy)
+- BeautifulSoup (parsing HTML)
+- xlrd (Read Excel .xls files)
+- xlwt (Write to Excel .xls files)
+- xlsxwriter (Write to Excel .xls and .xlsx files, with additional functionality beyond xlwt)
+- cherrypy (Simple, lightweight framework for serving web pages)
+- psycopg2 (Connect to and issue SQL commands to your postgresql database)
