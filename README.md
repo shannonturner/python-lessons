@@ -30,12 +30,14 @@ Conditionals
 Lists
 - Containers for data types
 - First In, Last Out (Stack)
+- Accessing specific list items through index (slice notation)
 - List methods
 - - list.append()
 - - list.insert()
 - - list.pop()
 - - list.extend()
 - Finding items in list (in keyword)
+- Deduplicating a list using list(set(list_to_deduplicate))
 
 Loops
 - for loop (for each item in a list: ...)
@@ -67,7 +69,22 @@ Functions
 - namespaces
 
 Dictionaries
+- Accessing specific dictionary items through key (looks like a slice)
+- Accessing all keys as a list using .keys()
+- Faking a sorted dictionary by using sorted() on the .keys()
+- Accessing all values as a list using .values()
+- Accessing all key, value pairs as a list using .items()
+- Adding new items through .fromkeys()
+- Checking for whether a key exists with .has_key
+- Using .get() to safely get a key's value if it exists without getting an error if not
+- Adding new items with direct assignment and .update()
 
+Dictionaries and Lists, together
+- Accessing specific items in a nested list
+- Accessing specific items in a nested dictionary
+- Accessing specific items in a nested list within a dictionary
+- Accessing specific items in a nested dictionary within a list
+- If you can do those four above, you can handle receiving JSON API returns
 
 Standard Library
 - import keyword
@@ -78,6 +95,7 @@ Standard Library
 - re (regular expressions)
 - os
 - sys
+- json
 
 External Libraries (Not necessarily in order; keep these in mind)
 - Installing external libraries with easy_install
@@ -89,3 +107,11 @@ External Libraries (Not necessarily in order; keep these in mind)
 - xlsxwriter (Write to Excel .xls and .xlsx files, with additional functionality beyond xlwt)
 - cherrypy (Simple, lightweight framework for serving web pages)
 - psycopg2 (Connect to and issue SQL commands to your postgresql database)
+
+Exception Handling
+- try / except syntax
+- Using multiple excepts
+- Recognizing the different error types
+- Exception, the generic exception type (use sparingly)
+- Nesting exception handling
+- try / except / else syntax
