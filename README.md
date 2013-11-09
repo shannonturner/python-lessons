@@ -58,6 +58,29 @@ File handling
 - File handling flags (r, w, b, +)
 - Writing to files
 
+Python's Most Commonly Used Built-in Functions
+- - Types (used primarily for converting one type to another)
+- int()
+- float()
+- str()
+- bool()
+- list()
+- set()
+- dict()
+- - Comparison and Calculation
+- abs()
+- len()
+- max()
+- min()
+- round()
+- sum()
+- - Loop (Sequence) Control
+- enumerate()
+- range() / xrange()
+- reversed()
+- sorted()
+- zip()
+
 Functions
 - def keyword
 - arguments
@@ -115,3 +138,13 @@ Exception Handling
 - Exception, the generic exception type (use sparingly)
 - Nesting exception handling
 - try / except / else syntax
+
+List Comprehensions
+
+Inline Conditionals
+
+Generators
+
+Classes
+
+Magic Methods
