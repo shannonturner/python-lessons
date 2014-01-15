@@ -7,11 +7,11 @@
 - To create a new file from IDLE, go to File > New Window.  A new, blank screen will open up where you can create your Python projects.
 - When you have a Python file open in IDLE, you can run it at any time by pressing F5.
 
-There's a known problem making it more difficult for Macs to run IDLE (see http://www.python.org/download/mac/tcltk/ for full details) -- but they can run Python just fine!
-
 ####Running Python on a Mac
 
 Python comes bundled with Macs already, so there's no extra setup for now.  You'll want to check which version you have, but it's not super important for writing your first scripts.
+
+There's a known problem making it more difficult for Macs to run IDLE (see http://www.python.org/download/mac/tcltk/ for full details) -- but they can run Python just fine!
 
 ####Mac: Running Python commands one at a time (using the interactive interpreter)
 - Open a terminal window (from the Finder, search for Terminal)
