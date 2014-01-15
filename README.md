@@ -1,3 +1,5 @@
+####First time installing/running Python? Be sure to check out the Start Here guide: https://github.com/shannonturner/python-lessons/edit/master/start-here.md
+
 In here are code snippets, examples, and other ways to help teach some of the difficult concepts and tricks in Python.
 
 Suggested Learning Progression
