@@ -21,7 +21,7 @@ There's a known problem making it more difficult for Macs to run IDLE (see http:
 - Once you have the **>>>** prompt, you can enter as many Python commands as you like.
 - Type **exit()** to quit and return to the command prompt.
 
-####Running Python Files from the Terminal
+####Mac: Running Python Files from the Terminal
 - Open a terminal window (from the Finder, search for Terminal)
 - When you open the terminal window, the words before your username are the folder you're in.
 - You're probably on your desktop to start. I recommend creating a folder on your desktop to put your Python scripts in.
@@ -31,7 +31,7 @@ There's a known problem making it more difficult for Macs to run IDLE (see http:
 - Let's also assume that I created a Python script called **lesson1_pbj.py**, and that file lives in **pyscripts** on the desktop.
 - To run lesson1_pbj.py, I would type into the terminal: **python lesson1_pbj.py**
 
-Troubleshooting: Running Python Files from the Terminal
+####Mac: Troubleshooting Running Python Files from the Terminal
 - Make sure you're in the correct folder! You can check which folder the terminal is looking in by typing **pwd**
 - Similarly, make sure the file you want to run is in the folder you're in! Type **ls** to see all of the files in the folder terminal is currently working in.
 - Remember that when you see the dollar sign prompt (**$**), you're working in terminal, and can run scripts at the command line.  But when you see the **>>>** prompt, you're in Python's interactive interpreter mode, and you'll need to type **exit()** to get back.
