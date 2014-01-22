@@ -1,10 +1,12 @@
 ####First time installing/running Python? Be sure to check out the Start Here guide: https://github.com/shannonturner/python-lessons/blob/master/start-here.md
 
-In here are code snippets, examples, and other ways to help teach some of the difficult concepts and tricks in Python.
+In here are code snippets, examples, and other ways to help teach some of the concepts and tricks in Python.
 
-Suggested Learning Progression
+##Suggested Learning Progression
 
-If you're new to Python you may wonder what you should learn and when you should learn it.  I recommend this order:
+If you're new to Python you may wonder what you should learn and when you should learn it.  I recommend this order seen below.  **Each section below has its own folder above; each bullet point has its own file within that folder.**
+
+So if you wanted to learn more about variable assignment, go to the folder **section_01_(basics)** and open up **variable_assignment.py**
 
 #### Section 1: General Programming Basics
 - Simple Math
