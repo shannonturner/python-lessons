@@ -34,9 +34,9 @@ elif 10 <= age <= 11: # is age between 10 and 11?
 	if age == 10:
 		print "Health class for the first time ..."
 
-		if gender == 'f':
+		if gender.lower() == 'f':
 			print "... Well, that explains a lot, really."
-		elif gender == 'm':
+		elif gender.lower() == 'm':
 			print "Wonder what the girls are all talking about?"
 
 	elif age == 11:
@@ -58,7 +58,7 @@ elif age == 18:
 	print "But you can vote, so you've got that going for you."
 	print "PS: you have responsibilities now. sucks to be you"
 
-	if gender == 'm':
+	if gender.lower() == 'm':
 		print "Better register for the draft."
 
 elif 19 <= age <= 20:
@@ -77,7 +77,7 @@ else: # In all other cases not covered by the ifs and elifs above
 
 	print "You're an adult.  Do what you want."
 
-	if age > 30 and gender == 'f': # Note that both of these conditions must be true
+	if age > 30 and gender.lower() == 'f': # Note that both of these conditions must be true
 		print "Meddling folks are going to start hectoring you about your love life.  Yawn."
 
 	# Notice how the if statements below are all evaluated independently
