@@ -31,8 +31,8 @@ print greeting # HELLO, hi
 gender = 'F'
 
 if gender.lower() == 'f':
-	print "Hi lady!"
+    print "Hi lady!"
 
 # To accomplish the same thing without string.lower(), you would have to do:
 if gender == 'F' or gender == 'f':
-	print "Hi lady!"
+    print "Hi lady!"
