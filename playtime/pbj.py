@@ -38,7 +38,7 @@
 #		Continue from the second goal, and add:
 #		If you have an odd number of slices of bread* and odd amount of peanut butter and jelly, print a message like before, but mention that you can make an open-face sandwich, too.
 #		If you don't have enough ingredients; still print the same message as before
-#		* To calculate whether you have an odd number, see https://github.com/shannonturner/python-lessons/blob/master/section_01%20%28basics%29/simple_math.py
+#		* To calculate whether you have an odd number, see https://github.com/shannonturner/python-lessons/blob/master/section_01_(basics)/simple_math.py
 
 # To satisfy the fourth goal:
 #		Continue from the third goal, but this time if you don't have enough ingredients, print a message that tells you which ones you're missing.
