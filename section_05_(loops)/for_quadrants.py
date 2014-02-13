@@ -7,26 +7,26 @@ se_addresses = []
 no_quadrant = []
 
 for entry in range(3): # do this three times:
-	address = raw_input("What is your address? ") # get the address from the user
+    address = raw_input("What is your address? ") # get the address from the user
 
-	address = address.split(" ") # split address into a list based on the spaces
+    address = address.split(" ") # split address into a list based on the spaces
 
-	if 'NW' in address:
-		nw_addresses.append(' '.join(address)) # if 'NW' appears in address, add the address (joined back as a string) to the proper list
+    if 'NW' in address:
+        nw_addresses.append(' '.join(address)) # if 'NW' appears in address, add the address (joined back as a string) to the proper list
 
-	elif 'NE' in address:
-		ne_addresses.append(' '.join(address))
+    elif 'NE' in address:
+        ne_addresses.append(' '.join(address))
 
-	elif 'SW' in address:
-		sw_addresses.append(' '.join(address))
+    elif 'SW' in address:
+        sw_addresses.append(' '.join(address))
 
-	elif 'SE' in address:
-		se_addresses.append(' '.join(address))
+    elif 'SE' in address:
+        se_addresses.append(' '.join(address))
 
-	else:
-		# In all other instances
+    else:
+        # In all other instances
 
-		no_quadrant.append(' '.join(address))
+        no_quadrant.append(' '.join(address))
 
 
 print "NW addresses include: {0}".format(nw_addresses)
