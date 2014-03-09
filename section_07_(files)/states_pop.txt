@@ -1,0 +1,210 @@
+
+---"California"---
+"Population Estimate":	38332521
+"Percent of Total population":	"11.91%"
+
+---"Texas"---
+"Population Estimate":	26448193
+"Percent of Total population":	"8.04%"
+
+---"New York"---
+"Population Estimate":	19651127
+"Percent of Total population":	"6.19%"
+
+---"Florida"---
+"Population Estimate":	19552860
+"Percent of Total population":	"6.01%"
+
+---"Illinois"---
+"Population Estimate":	12882135
+"Percent of Total population":	"4.10%"
+
+---"Pennsylvania"---
+"Population Estimate":	12773801
+"Percent of Total population":	"4.06%"
+
+---"Ohio"---
+"Population Estimate":	11570808
+"Percent of Total population":	"3.69%"
+
+---"Georgia"---
+"Population Estimate":	9992167
+"Percent of Total population":	"3.10%"
+
+---"Michigan"---
+"Population Estimate":	9895622
+"Percent of Total population":	"3.16%"
+
+---"North Carolina"---
+"Population Estimate":	9848060
+"Percent of Total population":	"3.05%"
+
+---"New Jersey"---
+"Population Estimate":	8899339
+"Percent of Total population":	"2.81%"
+
+---"Virginia"---
+"Population Estimate":	8260405
+"Percent of Total population":	"2.56%"
+
+---"Washington"---
+"Population Estimate":	6971406
+"Percent of Total population":	"2.15%"
+
+---"Massachusetts"---
+"Population Estimate":	6692824
+"Percent of Total population":	"2.09%"
+
+---"Arizona"---
+"Population Estimate":	6626624
+"Percent of Total population":	"2.04%"
+
+---"Indiana"---
+"Population Estimate":	6570902
+"Percent of Total population":	"2.07%"
+
+---"Tennessee"---
+"Population Estimate":	6495978
+"Percent of Total population":	"2.03%"
+
+---"Missouri"---
+"Population Estimate":	6044171
+"Percent of Total population":	"1.91%"
+
+---"Maryland"---
+"Population Estimate":	5928814
+"Percent of Total population":	"1.85%"
+
+---"Wisconsin"---
+"Population Estimate":	5742713
+"Percent of Total population":	"1.82%"
+
+---"Minnesota"---
+"Population Estimate":	5420380
+"Percent of Total population":	"1.70%"
+
+---"Colorado"---
+"Population Estimate":	5268367
+"Percent of Total population":	"1.61%"
+
+---"Alabama"---
+"Population Estimate":	4833722
+"Percent of Total population":	"1.53%"
+
+---"South Carolina"---
+"Population Estimate":	4774839
+"Percent of Total population":	"1.48%"
+
+---"Louisiana"---
+"Population Estimate":	4625470
+"Percent of Total population":	"1.45%"
+
+---"Kentucky"---
+"Population Estimate":	4395295
+"Percent of Total population":	"1.39%"
+
+---"Oregon"---
+"Population Estimate":	3930065
+"Percent of Total population":	"1.22%"
+
+---"Oklahoma"---
+"Population Estimate":	3850568
+"Percent of Total population":	"1.20%"
+
+---"Puerto Rico"---
+"Population Estimate":	3615086
+"Percent of Total population":	"1.19%"
+
+---"Connecticut"---
+"Population Estimate":	3596080
+"Percent of Total population":	"1.14%"
+
+---"Iowa"---
+"Population Estimate":	3090416
+"Percent of Total population":	"0.97%"
+
+---"Mississippi"---
+"Population Estimate":	2991207
+"Percent of Total population":	"0.95%"
+
+---"Arkansas"---
+"Population Estimate":	2959373
+"Percent of Total population":	"0.93%"
+
+---"Utah"---
+"Population Estimate":	2900872
+"Percent of Total population":	"0.88%"
+
+---"Kansas"---
+"Population Estimate":	2893957
+"Percent of Total population":	"0.91%"
+
+---"Nevada"---
+"Population Estimate":	2790136
+"Percent of Total population":	"0.86%"
+
+---"New Mexico"---
+"Population Estimate":	2085287
+"Percent of Total population":	"0.66%"
+
+---"Nebraska"---
+"Population Estimate":	1868516
+"Percent of Total population":	"0.58%"
+
+---"West Virginia"---
+"Population Estimate":	1854304
+"Percent of Total population":	"0.59%"
+
+---"Idaho"---
+"Population Estimate":	1612136
+"Percent of Total population":	"0.51%"
+
+---"Hawaii"---
+"Population Estimate":	1404054
+"Percent of Total population":	"0.43%"
+
+---"Maine"---
+"Population Estimate":	1328302
+"Percent of Total population":	"0.42%"
+
+---"New Hampshire"---
+"Population Estimate":	1323459
+"Percent of Total population":	"0.42%"
+
+---"Rhode Island"---
+"Population Estimate":	1051511
+"Percent of Total population":	"0.34%"
+
+---"Montana"---
+"Population Estimate":	1015165
+"Percent of Total population":	"0.32%"
+
+---"Delaware"---
+"Population Estimate":	925749
+"Percent of Total population":	"0.29%"
+
+---"South Dakota"---
+"Population Estimate":	844877
+"Percent of Total population":	"0.26%"
+
+---"Alaska"---
+"Population Estimate":	735132
+"Percent of Total population":	"0.23%"
+
+---"North Dakota"---
+"Population Estimate":	723393
+"Percent of Total population":	"0.21%"
+
+---"District of Columbia"---
+"Population Estimate":	646449
+"Percent of Total population":	"0.19%"
+
+---"Vermont"---
+"Population Estimate":	626630
+"Percent of Total population":	"0.20%"
+
+---"Wyoming"---
+"Population Estimate":	582658
+"Percent of Total population":	"0.18%"
+
+------
