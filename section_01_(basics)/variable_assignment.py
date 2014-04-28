@@ -24,7 +24,7 @@ lesson_subsection = 2 # Variable Assignment
 # Shannon's Rules of variable names
 # ---------------------------------
 # Variables should be descriptive, even if it means their names are long
-# You should be able to show your code to anyone and they'll know exactly information what a given variable holds
+# You should be able to show your code to anyone and they'll know exactly what information a given variable holds
 # Use underscores to break up words!
 
 # We've stored values inside of lesson_section and lesson_subsection, so now let's use them!
