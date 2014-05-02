@@ -17,3 +17,4 @@
 # Goal 3:
 # Integrate this with the Open Movie Database API: http://www.omdbapi.com/
 #   Display all of the details from both APIs when searching for a movie.
+#   Note that you may need to prefix your ImdbIDs with 'tt' to get the search to work.
