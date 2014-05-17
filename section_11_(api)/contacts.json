@@ -1,0 +1,32 @@
+[
+    {
+        "enemies": [], 
+        "friends": [
+            {
+                "Shannon": {
+                    "github": "@shannonturner", 
+                    "phone": "202-555-1234", 
+                    "twitter": "@svt827"
+                }
+            }, 
+            {
+                "Amy": {
+                    "email": "amy@amy.org", 
+                    "fax": "410-555-3001", 
+                    "phone": "410-515-3000"
+                }
+            }, 
+            {
+                "Jen": {
+                    "email": "jen@jen.biz", 
+                    "phone": "301-600-5555"
+                }
+            }, 
+            {
+                "Julie": {
+                    "phone": "202-333-9876"
+                }
+            }
+        ]
+    }
+]
