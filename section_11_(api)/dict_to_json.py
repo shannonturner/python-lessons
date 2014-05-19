@@ -29,6 +29,6 @@ print json.dumps(contacts, indent=4, sort_keys=True)
 # indent=4 will indent each level as this many spaces (4), which looks way nicer than not doing this.
 # sort_keys=True will sort the keys within the dictionary based on their name
 
-# You may not see the indentation if you print to the terminal; you may need to write the output to a file to see it.
+# You might not see the indentation if you print to the terminal; you may need to write the output to a file to see it.
 with open('contacts.json', 'w') as json_contacts:
     json_contacts.write(json.dumps(contacts, indent=4, sort_keys=True))
