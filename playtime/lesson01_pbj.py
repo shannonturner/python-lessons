@@ -41,9 +41,8 @@
 #		* To calculate whether you have an odd number, see https://github.com/shannonturner/python-lessons/blob/master/section_01_(basics)/simple_math.py
 
 # To satisfy the fourth goal:
-#		Continue from the third goal, but this time if you don't have enough ingredients, print a message that tells you which ones you're missing.
-
-# To satisfy the fifth goal:
-#		Continue from the fourth goal, but this time if you have enough bread and peanut butter but no jelly, print a message that tells you that you can make a peanut butter sandwich
+#		Continue from the third goal, but this time if you have enough bread and peanut butter but no jelly, print a message that tells you that you can make a peanut butter sandwich
 #		Or if you have more peanut butter and bread than jelly, that you can make a certain number of peanut butter & jelly sandwiches and a certain number of peanut butter sandwiches
 
+# To satisfy the fifth goal:
+#		Continue from the fourth goal, but this time if you don't have enough ingredients, print a message that tells you which ones you're missing.
