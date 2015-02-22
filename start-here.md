@@ -13,6 +13,8 @@ Python comes bundled with Macs already, so there's no extra setup for now.  You'
 
 There's a known problem making it more difficult for Macs to run IDLE (see http://www.python.org/download/mac/tcltk/ for full details) -- but they can run Python just fine!
 
+**You should probably make it easy on yourself and download [Sublime Text 3](http://www.sublimetext.com/3), which will allow you to run Python files straight from your editor.**
+
 ####Mac: Running Python commands one at a time (using the interactive interpreter)
 - Open a terminal window (from the Finder, search for Terminal)
 - Type **python** and hit enter
