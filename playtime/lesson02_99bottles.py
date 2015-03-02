@@ -1,3 +1,5 @@
+# Difficulty Level: Beginner
+
 # Can you make Python print out the song for 99 bottles of beer on the wall?
 
 # Note: You can use range() in three different ways

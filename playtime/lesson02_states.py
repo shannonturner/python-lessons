@@ -1,3 +1,5 @@
+# Difficulty Level: Intermediate
+
 # Goal: Create a program that prints out an HTML drop down menu for all 50 states
 
 # Step 1: Define your list of states

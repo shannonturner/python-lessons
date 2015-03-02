@@ -1,3 +1,5 @@
+# Difficulty level: Beginner
+
 # Goal #1: Write a new version of the PB&J program that uses a while loop.  Print "Making sandwich #" and the number of the sandwich until you are out of bread, peanut butter, or jelly.
 
 # Example:

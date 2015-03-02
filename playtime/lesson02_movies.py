@@ -1,3 +1,5 @@
+# Difficulty level: Advanced
+
 # Goal #1: Create a program that will print out a list of movie titles and a set of ratings defined below into a particular format.
 
 # First, choose any five movies you want.
