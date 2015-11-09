@@ -37,3 +37,9 @@ There's a known problem making it more difficult for Macs to run IDLE (see http:
 - Make sure you're in the correct folder! You can check which folder the terminal is looking in by typing **pwd**
 - Similarly, make sure the file you want to run is in the folder you're in! Type **ls** to see all of the files in the folder terminal is currently working in.
 - Remember that when you see the dollar sign prompt (**$**), you're working in terminal, and can run scripts at the command line.  But when you see the **>>>** prompt, you're in Python's interactive interpreter mode, and you'll need to type **exit()** to get back.
+
+
+####Really really really stuck?
+- If you absolutely can't install python (for example, if you have a chromebook, a tablet or a work laptop on which you aren't the administrator), there are some options, but note that you'll eventually want to find a computer where you can install python in order to work on your own projects.
+- HOWEVER, for the purpose of getting started with Lesson 1, Codecademy Labs offers an [online python interpreter](http://labs.codecademy.com/#:workspace).
+- Just type in the panel on the left and hit the "run" button when you're ready to run your code.
