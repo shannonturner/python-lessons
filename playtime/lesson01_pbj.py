@@ -2,13 +2,13 @@
 
 # First Goal: Create a program that can tell you whether or not you can make a peanut butter and jelly sandwich
 
-# Second Goal: Modify that program to tell you: if you can make a sandwich, how many you can make
+# Second Goal: Create a program to tell you: if you can make a sandwich, how many you can make
 
-# Third Goal: Modify that program to allow you to make open-face sandwiches if you have an odd number of slices of bread ( )
+# Third Goal: Create a program to allow you to make open-face sandwiches if you have an odd number of slices of bread ( )
 
-# Fourth Goal: Modify that program to tell you: if you're missing ingredients, which ones you need to be able to make your sandwiches
+# Fourth Goal: Create a program to tell you: if you're missing ingredients, which ones you need to be able to make your sandwiches
 
-# Fifth Goal: Modify that program to tell you: if you have enough bread and peanut butter but no jelly, that you can make a peanut butter sandwich but you should take a hard, honest look at your life.  Wow, your program is kinda judgy.
+# Fifth Goal: Create a program to tell you: if you have enough bread and peanut butter but no jelly, that you can make a peanut butter sandwich but you should take a hard, honest look at your life.  Wow, your program is kinda judgy.
 
 
 # What are the step-by-steps to recreate this?
@@ -33,6 +33,9 @@
 #		Continue from the first goal, and add:
 #		If you have enough bread (at least 2 slices), peanut butter (at least 1), and jelly (at least 1), print a message like "I can make this many sandwiches: " and then calculate the result.
 #		If you don't; you can print the same message as before
+#   To calculate which ingredient you have the least of, the min() function will be useful.
+#   min() will calculate the smallest number of all of the numbers in the parentheses and tell you which it is
+#   For example, min(4, 83, 6) will return 4
 
 # To satisfy the third goal:
 #		Continue from the second goal, and add:
