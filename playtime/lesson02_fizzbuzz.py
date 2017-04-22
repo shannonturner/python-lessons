@@ -1,4 +1,4 @@
-# Fibonnaci Sequence
+# Fizzbuzz
 
 # Difficulty: Beginner
 
@@ -14,16 +14,6 @@
 
 # Remember the % operator will tell you whether a number is evenly divisible by another number! 
 # We use it most often to determine whether a number is even or odd, but it's also useful here.
-
-for n in range(1, 101):
-    if n % 3 == 0 and n % 5 == 0:
-        print "Fizzbuzz"
-    elif n % 3 == 0:
-        print "Fizz"
-    elif n % 5 == 0:
-        print "Buzz"
-    else:
-        print n
 
 # When completed, your program output should look like:
     # 1
