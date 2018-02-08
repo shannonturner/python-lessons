@@ -4,7 +4,7 @@ contacts = {
         "github": "https://github.com/hearmecode"
     },
     "Shannon Turner": {
-        "twitter": "@svt827",
+        "twitter": "@svthmc",
         "github": "https://github.com/shannonturner"
     },
 }
@@ -26,5 +26,5 @@ contacts["Aliya Rahman"] = {
 #     twitter: @hearmecode
 #     github: https://github.com/hearmecode
 # Shannon Turner's info: 
-#     twitter: @svt827
+#     twitter: @svthmc
 #     github: https://github.com/shannonturner
