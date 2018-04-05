@@ -20,7 +20,7 @@ schools = {
 
 # Question 1: What slice will give you a dictionary 
 #   with the key of "coordinates" and a value containing a list
-#   of two decimal numbers?
+#   with the items -81.50572799999999 and 39.21675500000001?
 
 # Question 2: What slice will give you the address of the school?
 
