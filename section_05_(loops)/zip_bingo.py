@@ -1,6 +1,6 @@
 # Basic bingo using zip()
 
-words = ['apple', 'banana', 'carrot', 'danke', 'elephant', 'fruit', 'gorilla', 'horse, michael', 'ice cream', 'jack, one eye', 'kazoo', 'lollerskates', 'mango', 'noodles', 'oboe', 'porcupine', 'quill', 'rowboat', 'sailboat', 'trolley', 'umbrella', 'voltage', 'watermelon', 'xylophobe', 'yarn', 'zebra-clops']
+words = ['apple', 'banana', 'carrot', 'danke', 'elephant', 'fruit', 'gorilla', 'horse, michael', 'ice cream', 'jack, one eye', 'kazoo', 'lollerskates', 'mango', 'noodles', 'oboe', 'porcupine', 'quill', 'rowboat', 'sailboat', 'trolley', 'umbrella', 'voltage', 'watermelon', 'xylophone', 'yarn', 'zebra-clops']
 
 print "words has {0} words in the list.".format(len(words))
 
@@ -35,4 +35,4 @@ print output
 # fruit,gorilla,horse, michael,ice cream,jack, one eye,
 # kazoo,lollerskates,Free space,noodles,oboe,
 # porcupine,quill,rowboat,sailboat,trolley,
-# umbrella,voltage,watermelon,xylophobe,yarn,
+# umbrella,voltage,watermelon,xylophone,yarn,

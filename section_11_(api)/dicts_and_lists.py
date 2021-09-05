@@ -50,7 +50,7 @@ investigations = {
 
 # Each item in the features list is a dictionary that has three keys: type, geometry, and properties
 
-# If we wanted to access all of the properies for the first map point, here's how:
+# If we wanted to access all of the properties for the first map point, here's how:
 print investigations['features'][0]['properties']
 #   list of dictionaries ^       ^        ^
 #                first map point |        | properties
