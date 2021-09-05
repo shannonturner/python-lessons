@@ -1,6 +1,6 @@
 # Example #7: try-else
 
-# Use an else block attached to a try block when you want to execute code only when no errors occured.
+# Use an else block attached to a try block when you want to execute code only when no errors occurred.
 
 user_input = raw_input("Please enter a number: ")
 
